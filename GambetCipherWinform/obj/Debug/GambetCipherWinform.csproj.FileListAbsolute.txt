@@ -1,0 +1,11 @@
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\bin\Debug\GambetCipherWinform.exe.config
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\bin\Debug\GambetCipherWinform.exe
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\bin\Debug\GambetCipherWinform.pdb
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.csproj.AssemblyReference.cache
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.csproj.SuggestedBindingRedirects.cache
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.Form1.resources
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.Properties.Resources.resources
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.csproj.GenerateResource.cache
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.exe
+C:\Users\offic\source\repos\GambetCipherWinform\GambetCipherWinform\obj\Debug\GambetCipherWinform.pdb
